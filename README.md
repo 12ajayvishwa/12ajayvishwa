@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajay Vishwakarma</h1>
 <h3 align="center">A passionate Mobile Application developer from india</h3>
 
+
+<img align="right" alt="Coding" width="400" src="https://cdn.edu.buncee.com/assets/9798c48d50b562de53f6d7b54b22c01d/animation-people-120920-1.gif?timestamp=1607543542">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12ajayvishwa&label=Profile%20views&color=0e75b6&style=flat" alt="12ajayvishwa" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/12ajayvishwa?tab=repositories](https://github.com/12ajayvishwa?tab=repositories)
