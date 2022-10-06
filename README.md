@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12ajayvishwa&label=Profile%20views&color=0e75b6&style=flat" alt="12ajayvishwa" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=12ajayvishwa" alt="12ajayvishwa" /></a> </p>
+
 - 🔭 I’m currently working on **video call app**
 
 - 🌱 I’m currently learning **Nodejs, java and databases**
